@@ -4,4 +4,4 @@ The general idea of the PKT method is shown in Figure. Firstly, the normalized d
 ![image](https://github.com/zhuzhu94854693/PKT/blob/main/image.jpg)
 
 
-https://code.earthengine.google.com/ad62862bbe0dcc7d2152753189c498e8
+https://code.earthengine.google.com/23fd7fe65946bd98c0038b3418f11cd4
